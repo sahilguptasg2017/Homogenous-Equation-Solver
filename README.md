@@ -7,7 +7,7 @@ This Python program solves a homogeneous system of linear equations of the form 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/homogeneous-equation-solver.git
+   git clone https://github.com/sahilguptasg2017/Homogenous-Equation-Solver.git
 2. **Navigate to the Project Directory:**
    ```bash
    cd homogeneous-equation-solver
